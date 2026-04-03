@@ -209,5 +209,6 @@ __marimo__/
 # Dataset
 *.zip
 *readme[1].txt
-*PetImages/
+*Images/
 *CDLA-Permissive-2.0/
+*.tar
